@@ -17,9 +17,7 @@ For Example:(
 READ AT README.txt
 
 )
-You Also Can Edit (Already Setup).
-Like This:
-<?php echo 'How Dare You!'; ?>
+
 
 # Can change your own logo
 
