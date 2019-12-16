@@ -15,14 +15,14 @@ go add one php files and edit with this data..
 For Example:(
 PHP FORM:
 
-<?php
-echo 'Already Setup.';
-?>
+//<?php
+//echo 'Already Setup.';
+//?>
 
 OR
 HTML FORM:
 
-<h1 align="center">Already Setup </h1>
+//<h1 align="center">Already Setup </h1>
 
 )
 
