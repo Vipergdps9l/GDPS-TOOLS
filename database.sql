@@ -31,7 +31,6 @@ CREATE TABLE IF NOT EXISTS `modtools` (
   `username` varchar(50) NOT NULL,
   `pinCode` bigint (6) NOT NULL,
   `password` varchar(50) NOT NULL,
-  `trn_date` datetime NOT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB  DEFAULT CHARSET=latin1;
 
